@@ -11,6 +11,10 @@ This project provides code implementation for the paper "CauseHSI: Cross-scene H
 pip intsall -r requirements.txt
 ```
 
+Recommended environment:
+- python 3.8
+- pytorch 1.8
+
 ### 1.1.2 data structure
 
 ```
